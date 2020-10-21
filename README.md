@@ -1,4 +1,4 @@
-# PseudoSeg: Designing Pseudo Labels for Semantic Segmentation
+# [PseudoSeg: Designing Pseudo Labels for Semantic Segmentation](https://arxiv.org/pdf/2010.09713v1.pdf)
 
 PseudoSeg is a simple consistency training framework for semi-supervised image
 semantic segmentation, which has a simple and novel re-design of pseudo-labeling
