@@ -149,3 +149,14 @@ python vis.py \
   --also_save_raw_predictions=true
 ```
 
+### Citation
+If you use this work for your research, please cite our paper.
+
+```
+@article{zou2020pseudoseg,
+  title={PseudoSeg: Designing Pseudo Labels for Semantic Segmentation},
+  author={Zou, Yuliang and Zhang, Zizhao and Zhang, Han and Li, Chun-Liang and Bian, Xiao and Huang, Jia-Bin and Pfister, Tomas},
+  journal={arXiv preprint arXiv:2010.09713},
+  year={2020}
+}
+```
