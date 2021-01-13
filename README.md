@@ -3,7 +3,7 @@
 PseudoSeg is a simple consistency training framework for semi-supervised image
 semantic segmentation, which has a simple and novel re-design of pseudo-labeling
 to generate well-calibrated structured pseudo labels for training with unlabeled
-or weakly-labeled data. It is implemented by Yuliang Zou (research intern) in 2020 Summer.
+or weakly-labeled data. It is implemented by [Yuliang Zou](https://yuliang.vision/) (research intern) in 2020 Summer.
 
 __This is not an official Google product.__
 
@@ -156,7 +156,7 @@ If you use this work for your research, please cite our paper.
 @article{zou2020pseudoseg,
   title={PseudoSeg: Designing Pseudo Labels for Semantic Segmentation},
   author={Zou, Yuliang and Zhang, Zizhao and Zhang, Han and Li, Chun-Liang and Bian, Xiao and Huang, Jia-Bin and Pfister, Tomas},
-  journal={arXiv preprint arXiv:2010.09713},
-  year={2020}
+  journal={International Conference on Learning Representations (ICLR)},
+  year={2021}
 }
 ```
