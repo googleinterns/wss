@@ -1,9 +1,13 @@
-# [PseudoSeg: Designing Pseudo Labels for Semantic Segmentation](https://arxiv.org/pdf/2010.09713v1.pdf)
+# PseudoSeg: Designing Pseudo Labels for Semantic Segmentation
+
+Official Tensorflow implementation for [PseudoSeg: Designing Pseudo Labels for Semantic Segmentation (ICLR 2021)](https://arxiv.org/pdf/2010.09713.pdf).
 
 PseudoSeg is a simple consistency training framework for semi-supervised image
 semantic segmentation, which has a simple and novel re-design of pseudo-labeling
 to generate well-calibrated structured pseudo labels for training with unlabeled
 or weakly-labeled data. It is implemented by [Yuliang Zou](https://yuliang.vision/) (research intern) in 2020 Summer.
+
+See the [project page](https://yuliang.vision/pseudo_seg/) for more details.
 
 __This is not an official Google product.__
 
@@ -153,10 +157,10 @@ python vis.py \
 If you use this work for your research, please cite our paper.
 
 ```
-@article{zou2020pseudoseg,
+@inproceedings{zou2020pseudoseg,
   title={PseudoSeg: Designing Pseudo Labels for Semantic Segmentation},
   author={Zou, Yuliang and Zhang, Zizhao and Zhang, Han and Li, Chun-Liang and Bian, Xiao and Huang, Jia-Bin and Pfister, Tomas},
-  journal={International Conference on Learning Representations (ICLR)},
+  booktitle={International Conference on Learning Representations (ICLR)},
   year={2021}
 }
 ```
