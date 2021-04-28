@@ -157,7 +157,7 @@ python vis.py \
 If you use this work for your research, please cite our paper.
 
 ```
-@inproceedings{zou2020pseudoseg,
+@inproceedings{zou2021pseudoseg,
   title={PseudoSeg: Designing Pseudo Labels for Semantic Segmentation},
   author={Zou, Yuliang and Zhang, Zizhao and Zhang, Han and Li, Chun-Liang and Bian, Xiao and Huang, Jia-Bin and Pfister, Tomas},
   booktitle={International Conference on Learning Representations (ICLR)},
